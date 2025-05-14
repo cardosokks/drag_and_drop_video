@@ -19,13 +19,13 @@ body {
       width: 200px;
       height: 200px;
       background-size: cover;
-      border-color:black;
+      border-color:rgb(0, 255, 255);
       border-radius: 10px;
-	  border-style:solid;
+	    border-style:solid;
       cursor: grab;
       transform-style: preserve-3d;
       transition: transform 0.1s linear;
-	  z-index:3;
+	    z-index:3;
     }
 
     #target-box {
